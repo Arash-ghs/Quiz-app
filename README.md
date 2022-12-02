@@ -1,4 +1,4 @@
 # Quiz-app
-![Screenshot_1669994153](https://user-images.githubusercontent.com/30114670/205328344-9445df33-9698-4563-8ee1-a4d9196d8f7e.png)
-![Screenshot_1669993830](https://user-images.githubusercontent.com/30114670/205328323-96966605-ef98-4943-ae07-f6fd0349b64e.png)
-![Screenshot_1669993845](https://user-images.githubusercontent.com/30114670/205328338-f3d6927d-81f1-4d74-b8a4-fe9c98027985.png)
+![Screenshot_1669993830](https://user-images.githubusercontent.com/30114670/205328567-36d838e1-b577-40aa-945b-1a81eaf26e23.png)
+![Screenshot_1669993845](https://user-images.githubusercontent.com/30114670/205328578-abf5f8be-dc83-4e0b-9cd9-220ea222c52f.png)
+![Screenshot_1669994153](https://user-images.githubusercontent.com/30114670/205328588-8e5d47ff-b518-4244-a729-0cc31f3691b3.png)
